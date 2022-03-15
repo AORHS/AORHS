@@ -24,7 +24,7 @@
  
  
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=whirebla&theme=chartreuse-dark&no-frame=true" /></p>
 
 <img src ="https://github.com/avinash-218/avinash-218/raw/main/Images/social_dashboard.svg" align = "left" width = 50%>
 
