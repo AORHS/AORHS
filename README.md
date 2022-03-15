@@ -3,7 +3,7 @@
   <img src="https://scontent.fmnl25-2.fna.fbcdn.net/v/t1.15752-9/274854119_379547456995741_5556988960253195888_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=oYlmAZ1OraQAX_fYlPb&_nc_ht=scontent.fmnl25-2.fna&oh=03_AVLHAL78XNitNV2a99MNeHMEQ4ykOsOxMeZ0RsBMnMYOxQ&oe=625603AC" width="550px">
   </p>
   
- <img width="40%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
+ <img width="25%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
   
 <h2 align="left">Who are we? 🧑🏻‍💻↔️👨🏻‍💻</h3>
 
