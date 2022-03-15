@@ -34,7 +34,7 @@
 <p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=whirebla&column=7&theme=gruvbox&no-frame=true"/>
   
- # <img width="50px" src="https://img.icons8.com/nolan/26/github.png"/> Profile Stats 🗽
+ # <img width="40px" src="https://img.icons8.com/nolan/26/github.png"/> Profile Stats 🗽
  <p align="left">
  <img src="https://camo.githubusercontent.com/432fc3ab4d62e96fb066422e433089244557c5c9fb8ad8de49a7ba50dbcb21dd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6176696e6173682d323138267468656d653d636861727472657573652d6461726b"></p>
 
