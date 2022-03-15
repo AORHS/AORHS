@@ -4,6 +4,7 @@
   </p>
   
   <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+  
 <h3 align="left">Interests:</h3>
 
 - Data Science 📊
