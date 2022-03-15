@@ -11,7 +11,7 @@
 - We make hacking tools that are unique and advance. 💻
 - We like to do jeopardy ctf and also learn more about cybersecurity 🕵️
 - All of our members are anonymous and non will be revealed for anyone's concern 🛡️
-- 
+
 # <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
 | **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
 :--- | :---
