@@ -26,6 +26,9 @@
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=whirebla&theme=chartreuse-dark&no-frame=true" /></p>
 
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=whirebla&column=7&theme=gruvbox&no-frame=true"/>
+
 <img src ="https://github.com/avinash-218/avinash-218/raw/main/Images/social_dashboard.svg" align = "left" width = 50%>
 
 <h2> Connect with us</h2>
