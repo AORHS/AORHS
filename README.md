@@ -5,10 +5,11 @@
   
   <img width="40%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
   
-<h2 align="left">Interests:</h3>
+<h2 align="left">Who are we?</h3>
 
-- Hacking 👨🏻‍💻 
-- Making Hacking Tools💻
-- Bugbounty 💰
+- We are hackers consisting of White, Red and Black. 👨🏻‍💻 
+- We make hacking tools that are unique and advance. 💻
+- We like to do jeopardy ctf and also learn more about cybersecurity 🕵️
+- All of our members are anonymous and non will be revealed for anyone's concern 🛡️
 
 <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg">
