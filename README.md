@@ -12,6 +12,10 @@
 - We like to do jeopardy ctf and also learn more about cybersecurity 🕵️
 - All of our members are anonymous and non will be revealed for anyone's concern 🛡️
 
+| **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
+:--- | :---
+| **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
+
 <h1 align="left">Technologies</h2>
 
 | **Programming Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Nim](https://img.shields.io/static/v1?style=for-the-badge&message=Nim&color=222222&logo=Nim&logoColor=FFE953&label=) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jupyter](https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)
@@ -32,7 +36,8 @@
 <img src ="https://github.com/avinash-218/avinash-218/raw/main/Images/social_dashboard.svg" align = "left" width = 50%>
 
 <h2> Connect with us</h2>
-  
+ 
+ 
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
 <br><br>
@@ -43,8 +48,6 @@
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />]()
 <br><br>
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />]()
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />]()
 <br><br>
  
 <p align="center"><img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg"></p>
