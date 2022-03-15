@@ -7,7 +7,7 @@
   
 <h1 align="left">Who are we? 🧑🏻‍💻↔️👨🏻‍💻</h3>
 
-- We are hackers consisting of White, Red and Black. 👨🏻‍💻 
+- We are hackers consisting of White, Grey, Red and Black. 👨🏻‍💻 
 - We make hacking tools that are unique and advance. 💻
 - We like to do jeopardy ctf and also learn more about cybersecurity 🕵️
 - All of our members are anonymous and non will be revealed for anyone's concern 🛡️
