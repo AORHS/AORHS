@@ -33,11 +33,15 @@
 
 <p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=whirebla&column=7&theme=gruvbox&no-frame=true"/>
+  
+ # <img src="https://img.icons8.com/nolan/26/github.png"/> Profile Stats 🗽
+ <p align="left">
+ <img src="https://camo.githubusercontent.com/432fc3ab4d62e96fb066422e433089244557c5c9fb8ad8de49a7ba50dbcb21dd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6176696e6173682d323138267468656d653d636861727472657573652d6461726b"></p>
 
 <img src ="https://github.com/avinash-218/avinash-218/raw/main/Images/social_dashboard.svg" align = "left" width = 50%>
+ 
 
 <h2> Connect with us</h2>
- 
  
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
@@ -50,5 +54,6 @@
 <br><br>
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />]()
 <br><br>
+ 
  
 <p align="center"><img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg"></p>
