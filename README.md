@@ -32,7 +32,7 @@
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=whigrebla&theme=chartreuse-dark&no-frame=true" /></p>
 
 <p align="center">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=whirebla&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=whigrebla&column=7&theme=gruvbox&no-frame=true"/>
  
  # <img width="35px" src="https://img.icons8.com/nolan/26/github.png"/> Profile Stats
  <p align="left">
