@@ -5,10 +5,10 @@
   
   <img width="40%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
   
-<h3 align="left">Interests:</h3>
+<h2 align="left">Interests:</h3>
 
-- Data Science 📊
-- Data Structures And Algorithms 💻
-- Database 
+- Hacking 👨🏻‍💻 
+- Making Hacking Tools💻
+- Bugbounty 💰
 
 <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg">
