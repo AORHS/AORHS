@@ -5,7 +5,7 @@
   
  <img width="25%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
   
-<h1 align="left">Who are we? 🧑🏻‍💻↔️👨🏻‍💻</h3>
+<h1 align="left">Who are we?👨🏻‍💻</h3>
 
 - We are hackers consisting of White, Grey, Red and Black. 👨🏻‍💻 
 - We make hacking tools that are unique and advance. 💻
