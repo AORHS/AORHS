@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, We are Whigrebla<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, We are Whigrebla</h1>
 <p align="center">
   <img src="whigrebla-img.png" width="550px">
   </p>
