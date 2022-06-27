@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, We are A.O.R.H.S.</h1>
+<h1 align="center">Hey there, We are Droid-Sec</h1>
 <p align="center">
   <img src="whigrebla-img.png" width="550px">
   </p>
