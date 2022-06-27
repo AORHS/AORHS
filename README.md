@@ -1,9 +1,7 @@
 <h1 align="center">Hey there, We are Droid-Sec</h1>
 <p align="center">
-  <img src="whigrebla-img.png" width="550px">
+  <img src="dslogo.gif" width="550px">
   </p>
-  
- <img width="25%" align="right" alt="Github Header" src="dslogo.gif" />
   
 <h1 align="left">What is DroidSec?👨🏻‍💻</h3>
 
