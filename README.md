@@ -1,9 +1,9 @@
-<h1 align="center">Hey there, We are Droid-Sec</h1>
+<h1 align="center">Hey there, We are Droid-Security👋</h1>
 <p align="center">
   <img src="dslogo.gif" width="550px">
   </p>
   
-<h1 align="left">What is DroidSec?👨🏻‍💻</h3>
+<h1 align="left">What is DroidSec?</h3>
 
 - DroidSec is a startup company
 - We make hacking tools that are unique and advance. 
