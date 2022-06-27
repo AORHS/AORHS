@@ -6,9 +6,9 @@
 <h1 align="left">What is DroidSec?👨🏻‍💻</h3>
 
 - DroidSec is a startup company👨🏻‍💻 
-- We make hacking tools that are unique and advance. 💻
-- We like to do make jeopardy ctf challenges 🕵️
-- All of our members are anonymous and non will be revealed for anyone's concern 🛡️
+- We make hacking tools that are unique and advance. 
+- We like to do make jeopardy ctf challenges 
+- All of our members are anonymous and non will be revealed for anyone's concern 
 
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=droid-security&theme=chartreuse-dark&no-frame=true" /></p>
